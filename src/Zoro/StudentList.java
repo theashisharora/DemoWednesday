@@ -16,7 +16,7 @@ public class StudentList {
         {
             s1[i] = new Student();
         }
-        String [] names={"Monkey D. Luffy", "Roronoa Zoro", "Vinsmoke Sanji","Franky", "Brook"};
+        String [] names={"Monkey D. Luffy", "Zoro", "Vinsmoke Sanji","Franky", "Brook"};
         for(int i=0; i<5; i++)
         {
             s1[i].setName(names[i]);
